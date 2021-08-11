@@ -1,0 +1,43 @@
+const COLORS = {
+    white: '#ffffff',
+    black: '#000000',
+    grey: '#757373',
+
+    pink1: '#dfd6d4',
+    pink2: '#b69187',
+    pink3: '#c09f91',
+    pink4: '#c3a8a1',
+    pink5: '#c8b5a9',
+    pink6: '#9c5155',
+    pink7: '#c28284',
+    pink8: '#d7abad',
+    pink9: '#ce9c9b',
+    pink10: '#dcbcbb',
+
+    green1: '#436249',
+    green2: '#6a806b',
+    green3: '#a5b1a5',
+    green4: '#beccc0',
+    green5: '#516050',
+    green6: '#7d8e7f',
+    green7: '#447434',
+    green8: '#15887e',
+    green9: '#79baad',
+    green10: '#597469',
+
+    nude1: '#a38666',
+    nude2: '#d8c7c4',
+    nude3: '#c9b3a7',
+    nude4: '#dcbeaf',
+    nude5: '#e5cdb1',
+    nude6: '#875621',
+    nude7: '#815a37',
+    nude8: '#e2c1b1',
+    nude9: '#efded0',
+    nude10: '#f7f1ea',
+    nude11: '#c2b7ab',
+    nude12: '#9c856b',
+    nude13: '#d1c8be',
+};
+    
+export default COLORS;
